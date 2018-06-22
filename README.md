@@ -25,5 +25,6 @@ Modify the code:
 <pre><code>TEST_CAM_ONLY = False</code></pre>
 
 And run the Object Detection Demo.
+<pre><code>python opencv_camera.py</code></pre>
 
 Have Fun with Raspi!
